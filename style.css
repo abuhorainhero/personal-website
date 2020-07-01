@@ -23,7 +23,7 @@ h1{
     font-weight: 700;
 }
 .link-buttom{
-    background-image: linear-gradient(180deg, lightsalmon, red);
+    background-image: linear-gradient(45deg, rgb(241, 7, 7), tomato);
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
