@@ -51,6 +51,10 @@ div img{
     background-image: url("images/biography-bg.png");
     background-size: 100%;
 }
+.color{
+    color: mediumvioletred;
+    font-weight: 700;
+}
 .latest-img{
     width: 25%;
     float: left;
