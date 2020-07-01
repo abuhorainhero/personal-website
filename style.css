@@ -5,6 +5,10 @@ body{
 p{
     color: gray;
 }
+pre{
+    color: gray;
+    font-size: 17px;
+}
 h1{
     font-size: 40px;
 }
@@ -85,10 +89,19 @@ footer{
     text-align: center;
     font-size: 12px;
 }
-#add{
-    padding: 50px 200px;
-}
-.email{
-    font-weight: 700;
+a.email{
+    text-decoration: none;
+    color:white;
+    display: block;
+    padding:10px 0;
     font-size: 25px;
 }
+p.messenger-box{
+    padding: 30px 40px;
+    background: linear-gradient(180deg, lightsalmon, red);
+    width: 40%;
+    margin: 0 auto;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
