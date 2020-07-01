@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: gray;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: firebrick;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.green-highlight{
+    color: green;
+    font-weight: 700;
+}
+.highlight{
+    color: magenta;
+    font-weight: 700;
+}
+.link-buttom{
+    background-image: linear-gradient(45deg, rgb(241, 7, 7), tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    margin: 4%;
+    padding: 1%;
+    float: left;
+}
+section{
+    display: inline-block;
+}
+div img{
+    width: 100%;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-size: 100%;
+}
+.biography{
+    width: 100%;
+    background-image: url("images/biography-bg.png");
+    background-size: 100%;
+}
+.latest-img{
+    width: 25%;
+    float: left;
+    margin: 1%;
+    padding: 0%;
+}
+#latest-img-1{
+    margin-left: 10%;
+}
+.latest{
+    text-align: center;
+    height: 500px;
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100%;
+    background-position: top;
+}
+#footer-id{
+    text-align: center;
+    display: block;
+    height: 800px;
+    width: 100%;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-size: 100%;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+#add{
+    padding: 50px 200px;
+}
